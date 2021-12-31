@@ -4,7 +4,7 @@
 #
 Name     : R-credentials
 Version  : 1.3.2
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/credentials_1.3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/credentials_1.3.2.tar.gz
 Summary  : Tools for Managing SSH and Git Credentials
@@ -39,10 +39,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1638367904
+export SOURCE_DATE_EPOCH=1640993979
 
 %install
-export SOURCE_DATE_EPOCH=1638367904
+export SOURCE_DATE_EPOCH=1640993979
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
