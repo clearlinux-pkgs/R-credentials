@@ -4,7 +4,7 @@
 #
 Name     : R-credentials
 Version  : 1.3.2
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/credentials_1.3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/credentials_1.3.2.tar.gz
 Summary  : Tools for Managing SSH and Git Credentials
